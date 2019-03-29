@@ -1,0 +1,1921 @@
+#s-b655c5e7-857f-4c42-8523-933b22340c0d > #backgroundBox {
+  background-color: #2E2C39;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  position: absolute;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d > #alignmentBox {
+  position: relative;
+  max-width: 400px;
+  max-height: 700px;
+  width: 100%;
+  height: 100%;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Group_1 {
+  position: absolute;
+  width: 401px;
+  height: 662px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #D9D9D9;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 {
+  position: absolute;
+  width: 132px;
+  height: 607px;
+  opacity: 0.05;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Roboto-Regular',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 > .paddingLayer {
+  height: 607px;
+  width: 132px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 span {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #FFFFFF;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 {
+  position: absolute;
+  width: 262px;
+  height: 607px;
+  opacity: 0.2;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Roboto-Regular',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 > .paddingLayer {
+  height: 607px;
+  width: 262px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 span {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_1 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_1 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_1 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #666666;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 {
+  position: absolute;
+  width: 139px;
+  height: 30px;
+  opacity: 0.5;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Roboto-Regular',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 > .paddingLayer {
+  height: 30px;
+  width: 139px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 span {
+  color: #6DFD6F;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Rectangle_3 span#rtr-s-Rectangle_3_0 {
+  color: #6DFD6F;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_2 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_2 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_2 span#rtr-s-Text_2_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_3 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_3 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_3 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 span#rtr-s-Text_3_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_3 span#rtr-s-Text_3_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Group_2 {
+  position: absolute;
+  width: 106px;
+  height: 38px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_5 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_5 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 span#rtr-s-Text_5_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_5 span#rtr-s-Text_5_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_6 span#rtr-s-Text_6_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Group_3 {
+  position: absolute;
+  width: 91px;
+  height: 36px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_4 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_4 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_4 span#rtr-s-Text_4_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_7 span#rtr-s-Text_7_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_8 span#rtr-s-Text_8_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_7 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_7 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_7 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 span#rtr-s-Text_11_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 span#rtr-s-Text_11_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_11 span#rtr-s-Text_11_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_10 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_10 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_10 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Group_4 {
+  position: absolute;
+  width: 239px;
+  height: 219px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_6 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_6 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_6 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 span#rtr-s-Text_9_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 span#rtr-s-Text_9_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 span#rtr-s-Text_9_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_9 span#rtr-s-Text_9_3 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_8 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_8 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_8 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span#rtr-s-Text_10_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span#rtr-s-Text_10_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span#rtr-s-Text_10_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span#rtr-s-Text_10_3 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_10 span#rtr-s-Text_10_4 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_9 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_9 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_9 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 span#rtr-s-Text_12_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 span#rtr-s-Text_12_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_12 span#rtr-s-Text_12_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_11 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_11 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_11 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_13 span#rtr-s-Text_13_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_12 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_12 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_12 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 span#rtr-s-Text_14_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_14 span#rtr-s-Text_14_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_13 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_13 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_13 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 span#rtr-s-Text_15_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 span#rtr-s-Text_15_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_15 span#rtr-s-Text_15_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_14 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_14 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_14 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span#rtr-s-Text_16_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span#rtr-s-Text_16_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span#rtr-s-Text_16_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span#rtr-s-Text_16_3 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_16 span#rtr-s-Text_16_4 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_15 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_15 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_15 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span#rtr-s-Text_17_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span#rtr-s-Text_17_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span#rtr-s-Text_17_2 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span#rtr-s-Text_17_3 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_17 span#rtr-s-Text_17_4 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_16 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_16 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_16 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 span#rtr-s-Text_18_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_18 span#rtr-s-Text_18_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_17 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_17 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_17 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 span#rtr-s-Text_19_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_19 span#rtr-s-Text_19_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_18 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_18 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_18 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 span#rtr-s-Text_20_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_20 span#rtr-s-Text_20_1 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_19 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_19 > img, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Image_19 > svg {
+  height: 30px;
+  width: 30px;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 13.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 > .clipping, #s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d #s-Text_21 span#rtr-s-Text_21_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 13.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b655c5e7-857f-4c42-8523-933b22340c0d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

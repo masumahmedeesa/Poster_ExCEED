@@ -1,0 +1,38 @@
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Image_72 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Rectangle_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Text_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-raised_Button_disabled {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

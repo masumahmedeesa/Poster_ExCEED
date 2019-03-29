@@ -1,0 +1,492 @@
+#s-6031992f-c167-4779-a488-23677fd8e02b > #backgroundBox {
+  background-color: #2E2C39;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  position: absolute;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b > #alignmentBox {
+  position: relative;
+  max-width: 400px;
+  max-height: 700px;
+  width: 100%;
+  height: 100%;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Group_1 {
+  position: absolute;
+  width: 342px;
+  height: 418px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 {
+  position: absolute;
+  width: 197px;
+  height: 50px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 28.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 > .paddingLayer {
+  height: 50px;
+  width: 197px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 span {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 28.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #08AE9E;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 28.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_1 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_1 > img, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_1 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_8 span#rtr-s-Text_8_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_7 span#rtr-s-Text_7_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_2 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_2 > img, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_2 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_9 span#rtr-s-Text_9_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_3 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_3 > img, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_3 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_12 span#rtr-s-Text_12_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_10 span#rtr-s-Text_10_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_4 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_4 > img, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_4 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 18.0pt;
+  font-family: 'Ubuntu',Arial;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 > .clipping, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Text_11 span#rtr-s-Text_11_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Ubuntu',Arial;
+  font-size: 18.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_5 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_5 > img, #s-6031992f-c167-4779-a488-23677fd8e02b #s-Image_5 > svg {
+  height: 35px;
+  width: 35px;
+  box-shadow: none;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-6031992f-c167-4779-a488-23677fd8e02b > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

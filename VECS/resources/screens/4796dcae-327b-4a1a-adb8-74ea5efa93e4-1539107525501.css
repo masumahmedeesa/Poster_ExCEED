@@ -1,0 +1,302 @@
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 > #backgroundBox {
+  background-color: #2E2C39;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  position: absolute;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 > #alignmentBox {
+  position: relative;
+  max-width: 400px;
+  max-height: 700px;
+  width: 100%;
+  height: 100%;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 45.0pt;
+  font-family: 'A Love of Thunder',Arial;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 > .clipping, #s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 > .paddingLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 span {
+  color: #CCCCCC;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'A Love of Thunder',Arial;
+  font-size: 45.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #CCCCCC;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'A Love of Thunder',Arial;
+  font-size: 45.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-Group_1 {
+  position: absolute;
+  width: 166px;
+  height: 173px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #6DFD6F;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: none;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled {
+  position: absolute;
+  width: 166px;
+  height: 40px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Myriad Pro',Arial;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled > .clipping, #s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled > .paddingLayer {
+  height: 38px;
+  width: 164px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled span#rtr-s-raised_Button_disabled_0 {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #6ACCCB;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: none;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 {
+  position: absolute;
+  width: 166px;
+  height: 40px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Myriad Pro',Arial;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 > .clipping, #s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 > .paddingLayer {
+  height: 38px;
+  width: 164px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_3 span#rtr-s-raised_Button_disabled_3_0 {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #6ACCCB;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: none;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 {
+  position: absolute;
+  width: 166px;
+  height: 40px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 16.0pt;
+  font-family: 'Myriad Pro',Arial;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 > .clipping, #s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 > .paddingLayer {
+  height: 38px;
+  width: 164px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 #s-raised_Button_disabled_4 span#rtr-s-raised_Button_disabled_4_0 {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Myriad Pro',Arial;
+  font-size: 16.0pt;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-4796dcae-327b-4a1a-adb8-74ea5efa93e4 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

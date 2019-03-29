@@ -1,0 +1,26 @@
+#s-15f18a9e-4376-4c79-9b37-4f9b50cbe9ee #s-raised_Button_disabled {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80) ;
+  filter: alpha(opacity=80) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-15f18a9e-4376-4c79-9b37-4f9b50cbe9ee #s-raised_Button_disabled_2 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80) ;
+  filter: alpha(opacity=80) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-15f18a9e-4376-4c79-9b37-4f9b50cbe9ee > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

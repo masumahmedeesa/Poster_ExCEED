@@ -1,0 +1,45 @@
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Image_72 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Rectangle_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 #s-raised_Button_disabled {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 1px 1px 1px 1px;
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  height: 25px;
+  width: 61px;
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-6993dff1-2bd9-4242-a0fe-a2a6ce7536a3 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

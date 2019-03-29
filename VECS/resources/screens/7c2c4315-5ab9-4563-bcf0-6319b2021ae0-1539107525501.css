@@ -1,0 +1,31 @@
+#s-7c2c4315-5ab9-4563-bcf0-6319b2021ae0 > #backgroundBox {
+  background-color: #2E2C39;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  position: absolute;
+}
+#s-7c2c4315-5ab9-4563-bcf0-6319b2021ae0 > #alignmentBox {
+  position: relative;
+  max-width: 400px;
+  max-height: 700px;
+  width: 100%;
+  height: 100%;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-7c2c4315-5ab9-4563-bcf0-6319b2021ae0 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
